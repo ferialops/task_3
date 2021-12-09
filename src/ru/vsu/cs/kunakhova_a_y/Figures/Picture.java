@@ -1,7 +1,5 @@
 package ru.vsu.cs.kunakhova_a_y.Figures;
 
-//import ru.vsu.cs.kunakhova_a_y.Figures.SimpleColor;
-
 public class Picture {
 
     private final VerticalParabola verticalParabola1;
